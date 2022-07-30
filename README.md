@@ -1,9 +1,9 @@
 ### Olá, Seja Bem-Vindo ao meu perfil ! 👋 Se Quiser Dar Uma Olhada, Fique a Vontade 👾
 
 <div align="center">
-  <a href="https://github.com/DevKryne">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevKryne&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevKryne&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/joaovictoralvess">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovictoralvess&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictoralvess&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Kryne-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
