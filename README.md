@@ -17,7 +17,7 @@
  
   <div align="center"> 
     <a href="https://instagram.com/joao.victor.kk" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href= "mailto:vkryne@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href= "mailto:joaovictoralvesdealmeidaa1337@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-55b688244" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <img align="center" alt="Kryne=Dedsec" src="https://c.tenor.com/_xy4hrnzL8EAAAAC/dedsec.gif">
   </div>
