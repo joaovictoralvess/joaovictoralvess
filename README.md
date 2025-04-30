@@ -1,6 +1,6 @@
 <div align="center">
 
-### Olá, Seja Bem-Vindo ao meu perfil ! 👋 Se Quiser Dar Uma Olhada, Fique a Vontade 👾
+### Olá, Seja Bem-Vindo ao meu perfil ! 👋 Fique a vontade 👾
 
 </div>
 
