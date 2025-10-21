@@ -22,8 +22,3 @@
     <img align="center" alt="Kryne=Dedsec" src="https://c.tenor.com/_xy4hrnzL8EAAAAC/dedsec.gif">
   </div>
 <br>
-  <div align="center">
-    
-  ![ezgif-2-b025dbdf20](https://user-images.githubusercontent.com/110263977/181876554-3d8c58ec-16d9-4cab-9436-5e4cbbef2ccf.gif)
-  
-  </div>
