@@ -1,61 +1,70 @@
 # João Victor Alves
 
-Desenvolvedor Backend Java em formação, focado na construção de aplicações reais utilizando Java, PostgreSQL e APIs REST.
+Desenvolvedor Java com experiência em desenvolvimento de software, integração com bancos de dados e construção de soluções voltadas para automação de processos.
 
-Atualmente estou desenvolvendo projetos próprios para aprofundar conhecimentos em arquitetura backend, banco de dados, versionamento e boas práticas de desenvolvimento.
+Atualmente aprofundando conhecimentos em backend moderno com Java, PostgreSQL, APIs REST e ecossistema Spring.
 
 ## Tecnologias
 
 * Java
 * PostgreSQL
 * JDBC
+* SQL
 * Maven
-* Git & GitHub
+* Git
+* GitHub
 * REST APIs
 * JSON
-* SQL
 
-## Em aprendizado
+## Conhecimentos
+
+### Backend
+
+* Programação Orientada a Objetos (OOP)
+* Estruturas de Dados
+* JDBC
+* Integração com PostgreSQL
+* Consumo de APIs
+* Tratamento de Exceções
+* Streams e Lambdas
+
+### Ferramentas
+
+* Git
+* GitHub
+* Maven
+* VS Code
+* PostgreSQL
+
+## Projetos
+
+### Sistema CRUD Java + PostgreSQL
+
+Aplicação desenvolvida utilizando JDBC para gerenciamento completo de usuários.
+
+**Recursos:**
+
+* Cadastro
+* Consulta
+* Atualização
+* Exclusão
+* Persistência em banco de dados
+
+### Estudos de Backend
+
+Repositório dedicado à evolução contínua em tecnologias Java e arquitetura backend.
+
+## Atualmente Estudando
 
 * Spring Boot
 * JPA / Hibernate
 * Spring Security
 * Docker
-* Testes Automatizados
+* Arquitetura de APIs REST
 
-## Projetos em Destaque
+## Objetivos
 
-### CRUD Java + PostgreSQL
-
-Sistema completo de cadastro de usuários utilizando JDBC e PostgreSQL.
-
-**Funcionalidades:**
-
-* Cadastro
-* Listagem
-* Atualização
-* Remoção
-* Integração com banco de dados
-
-### Estudos de Backend
-
-Repositório dedicado à prática de:
-
-* Estruturas de dados
-* Programação Orientada a Objetos
-* Streams e Lambdas
-* Consumo de APIs
-* SQL
-
-## Objetivo Profissional
-
-Busco minha primeira oportunidade como Desenvolvedor Backend Java, com interesse especial em desenvolvimento de APIs, bancos de dados e construção de sistemas escaláveis.
-
-## Estatísticas
-
-* Estudando Java diariamente
-* Construindo projetos práticos para portfólio
-* Foco em desenvolvimento Backend
+Expandir minha experiência em desenvolvimento backend, arquitetura de software e construção de aplicações escaláveis utilizando o ecossistema Java.
 
 ## Contato
 
@@ -63,4 +72,4 @@ GitHub: github.com/joaovictoralvess
 
 ---
 
-*"Código limpo, aprendizado contínuo e evolução constante."*
+*"A melhor forma de aprender é construir."*
