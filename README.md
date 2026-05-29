@@ -1,26 +1,66 @@
-<div align="center">
+# João Victor Alves
 
-### Olá, Seja Bem-Vindo ao meu perfil ! 👋 Fique a vontade 👾
+Desenvolvedor Backend Java em formação, focado na construção de aplicações reais utilizando Java, PostgreSQL e APIs REST.
 
-</div>
+Atualmente estou desenvolvendo projetos próprios para aprofundar conhecimentos em arquitetura backend, banco de dados, versionamento e boas práticas de desenvolvimento.
 
-<div align="center">
-  <a href="https://github.com/joaovictoralvess">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovictoralvess&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictoralvess&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-</div>
-<br>
-  <div align="center">
-    <a href= "mailto:joaovictoralvesdealmeidaa1337@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-55b688244" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <img align="center" alt="Kryne=Dedsec" src="https://c.tenor.com/_xy4hrnzL8EAAAAC/dedsec.gif">
-  </div>
-<br>
+## Tecnologias
+
+* Java
+* PostgreSQL
+* JDBC
+* Maven
+* Git & GitHub
+* REST APIs
+* JSON
+* SQL
+
+## Em aprendizado
+
+* Spring Boot
+* JPA / Hibernate
+* Spring Security
+* Docker
+* Testes Automatizados
+
+## Projetos em Destaque
+
+### CRUD Java + PostgreSQL
+
+Sistema completo de cadastro de usuários utilizando JDBC e PostgreSQL.
+
+**Funcionalidades:**
+
+* Cadastro
+* Listagem
+* Atualização
+* Remoção
+* Integração com banco de dados
+
+### Estudos de Backend
+
+Repositório dedicado à prática de:
+
+* Estruturas de dados
+* Programação Orientada a Objetos
+* Streams e Lambdas
+* Consumo de APIs
+* SQL
+
+## Objetivo Profissional
+
+Busco minha primeira oportunidade como Desenvolvedor Backend Java, com interesse especial em desenvolvimento de APIs, bancos de dados e construção de sistemas escaláveis.
+
+## Estatísticas
+
+* Estudando Java diariamente
+* Construindo projetos práticos para portfólio
+* Foco em desenvolvimento Backend
+
+## Contato
+
+GitHub: github.com/joaovictoralvess
+
+---
+
+*"Código limpo, aprendizado contínuo e evolução constante."*
